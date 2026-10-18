@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pillow
+matplotlib
+flask
+eventlet
+python-socketio==4.6.1
+python-engineio==3.13.2
