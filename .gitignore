@@ -1,0 +1,7 @@
+venv/
+sim/
+data/
+old_runs/
+*.txt
+!car/requirements.txt
+__pycache__/
